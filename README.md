@@ -1,0 +1,2 @@
+# TripleTen_DataAnalytics_Business_Project_Analytics
+Este repositorio contiene un proyecto de mi BootCamp de TripleTen en Análisis de Datos. Demuestra mis habilidades en todo el ciclo de vida del análisis de datos, incluyendo limpieza de datos, análisis exploratorio, modelado predictivo, evaluación de modelos y visualización de resultados, aplicando técnicas para resolver problemas de negocio reales.
