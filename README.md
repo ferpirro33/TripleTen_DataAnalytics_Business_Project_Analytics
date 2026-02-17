@@ -38,5 +38,5 @@ Evaluated ROMI (Return on Marketing Investment) to identify the "break-even" poi
 
 Data Visualization: Developed comparative dashboards to visualize performance trends across devices and advertising sources.
 
-##💡 Business Impact & Recommendations
+## 💡 Business Impact & Recommendations
 The project concludes with a strategic roadmap for the marketing team. By identifying high-yield sources and inefficient channels, the analysis provides a data-backed recommendation on where to scale investment to maximize ROI and shorten the CAC payback period.
